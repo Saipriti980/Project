@@ -15,7 +15,7 @@ function App() {
       <header>
         <Pageheader/>
       <Routes>
-          <Route path="/" element={<Login/>}/>
+          <Route exact path="/" element={<Login/>}/>
           <Route path="/aboutusadmin" element={<AboutUsAdmin/>}/>
           <Route path="/contactus" element={<ContactUs/>}/>
           <Route path="/signup" element={<Signup/>}/>
