@@ -1,4 +1,4 @@
-"homepage"; "https://https://github.com/Saipriti980/Project"
+
 import './App.css';
 import AboutUsAdmin from './Components/AboutUsAdmin';
 import Login from './Components/Login';
